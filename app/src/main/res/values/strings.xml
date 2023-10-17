@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TMS_An_15_Homework_Lesson_19</string>
+    <string name="add_movie_informations">Add movie informations</string>
+    <string name="name">Name:</string>
+    <string name="genre">Genre:</string>
+    <string name="enter">Enter</string>
+    <string name="time">Time</string>
+    <string name="subtitle">Subtitle:</string>
+</resources>
